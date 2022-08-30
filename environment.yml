@@ -1,4 +1,4 @@
-disl: examples
+name: examples
 channels:
   - conda-forge
   - defaults
@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - pandas
   - notebook 
+  - branca
