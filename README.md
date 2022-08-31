@@ -1,5 +1,5 @@
 # Marine Science I Lab (MAS 331L)
-Computational Lab for MAS 331L, 
+Computational Lab for MAS 331L 
 
 Python for Marine Sciences
 
