@@ -19,6 +19,6 @@ Below are a series of Notebooks.
 
 
 [Interactive Mapping: Mobile Bay](Mobile.ipynb)
-- Uses open source mapping tool 'Leaflet'.  Try it out.  Add your house, or favorite parking place.
-- Has a 'Colormap', for no obvious reasons. Try it out.   
+- Uses open source mapping tool 'Leaflet'.  Try it out!  Add your house, or favorite parking place.
+- Has a 'Colormap', for no obvious reasons. Try it out!  Try to invent several new colormaps.   
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l3-hpc/intro-computational-marine-sciences.git/main?labpath=Mobile.ipynb)
