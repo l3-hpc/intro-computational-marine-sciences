@@ -1,5 +1,9 @@
-# intro-computational-marine-sciences
-Python for marine sciences, DISL
+# Marine Science I Lab (MAS 331L)
+Computational Lab for MAS 331L, 
+
+Python for Marine Sciences
+
+University of South Alabama
 
 ## How to use
 Below are a series of Notebooks.  
