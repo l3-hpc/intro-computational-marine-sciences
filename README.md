@@ -9,7 +9,7 @@ University of South Alabama
 Below are a series of Notebooks.  
 - Clicking on the link title will show a static page of what the Notebook would look like.  
 - Clicking on the "launch binder" icon will start the Notebook
-- Be patient, it might take some time.  It is starting up a VM (little computer in the cloud), installing all the necessary Python packages, and loading the data...all for free!  Free is usually not fast...
+- Be patient, it might take some time.  It is starting up a VM (little computer in the cloud), installing all the necessary Python packages, and loading the data...and all for free!  
 
 
 ## Contents
