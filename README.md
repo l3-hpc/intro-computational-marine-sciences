@@ -14,7 +14,12 @@ Below are a series of Notebooks.
 
 ## Contents
 [Lab 3: Intro to Python, Part I](Lab3_Intro_to_Python_1.ipynb)
-- (---say what this does---)
+The core content for this lab is taken directly from the AGU 2021 Python for Earth Sciences workshop, developed and led by Rebekah Esmaili (bekah@umd.edu), Research Scientist, STC/JPSS.
+- Why Python?
+- Basic Syntax, Importing Packages, Lists and Arrays
+- Read in a CSV and examine contents
+- Masking, Filtering data
+- Basic plots and figures 
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l3-hpc/intro-computational-marine-sciences.git/main?labpath=Lab3_Intro_to_Python_1.ipynb)
 
 
