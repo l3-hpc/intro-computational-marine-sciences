@@ -30,3 +30,20 @@ cp -r ~/AGU-python-workshop-2021/data ~/intro-computational-marine-sciences
 ```
 
 I also renamed the Notebook to Lab3_..etc.
+
+Students can save work as html (which works really well), File:Save and Export Notebook As...:HTML.  That saves a single html file to the users' computer.
+
+Save/Export to pdf or webpdf doesn't work, but you can use File:Print:Save as PDF
+
+Overview of Notebook in Binder, can click the folder icon and see which files are there.  You can actually save files during the sessions, then right click and download to the local computer.
+
+Binder Limitations:
+
+Memory, 8GB
+
+
+Can have session in the console, click Tabs:Console1.  Not what I thought, kinda stupid.  Or else I need to learn more.
+
+
+They can send you address for their binder, wonder how long it 'hangs around'
+https://mybinder.org/v2/gh/l3-hpc/intro-computational-marine-sciences/1c74411c79321a5a86da36b67b91f1812efc55f9?urlpath=lab%2Ftree%2FMobile.ipynb
