@@ -14,7 +14,7 @@ Below are a series of Notebooks.
 
 ## Contents
 [Lab 3: Intro to Python, Part I](Lab3_Intro_to_Python_1.ipynb)
-The content for this lab is taken directly from the AGU 2021 Python for Earth Sciences workshop, developed and led by [Rebekah Esmaili](http://www.rebekahesmaili.com) (bekah@umd.edu), Research Scientist, STC/JPSS.
+The content for this lab is taken directly from the [AGU 2021 Python for Earth Sciences workshop](https://github.com/modern-tools-workshop/AGU-python-workshop-2021), developed and led by [Rebekah Esmaili](http://www.rebekahesmaili.com) (bekah@umd.edu), Research Scientist, STC/JPSS.
 - Why Python?
 - Basic syntax, importing packages, lists and arrays
 - Read in a CSV and examine the data
