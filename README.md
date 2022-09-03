@@ -1,7 +1,7 @@
 # Marine Science I Lab (MAS 331L)
 Computational Lab for MAS 331L 
 
-Python for Marine Sciences
+Using Python for Marine Sciences
 
 University of South Alabama
 
@@ -14,7 +14,6 @@ Below are a series of Notebooks.
 
 ## Contents
 [Lab 3: Intro to Python, Part I](Lab3_Intro_to_Python_1.ipynb)
-The content for this lab is taken directly from the [AGU 2021 Python for Earth Sciences workshop](https://github.com/modern-tools-workshop/AGU-python-workshop-2021), developed and led by [Rebekah Esmaili](http://www.rebekahesmaili.com) (bekah@umd.edu), Research Scientist, STC/JPSS.
 - Why Python?
 - Basic syntax, importing packages, lists and arrays
 - Read in a CSV and examine the data
@@ -22,9 +21,3 @@ The content for this lab is taken directly from the [AGU 2021 Python for Earth S
 - Basic plots and figures 
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l3-hpc/intro-computational-marine-sciences.git/main?labpath=Lab3_Intro_to_Python_1.ipynb)
 
-
-
-[Interactive Mapping: Mobile Bay](Mobile.ipynb)
-- Uses open source mapping tool 'Leaflet'.  Try it out!  Add your house, or favorite parking place.
-- Has a 'Colormap', for no apparent reason. Try it out!  Invent several new colormaps.   
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/l3-hpc/intro-computational-marine-sciences.git/main?labpath=Mobile.ipynb)
